@@ -25,4 +25,5 @@ void palindrome()
    else
       printf("%d is not the Palindrome Number.\n", Number);
  
-}
+} 
+echo " this msg is executedeed"
