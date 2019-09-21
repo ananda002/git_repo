@@ -27,3 +27,4 @@ void palindrome()
  
 } 
 echo "hai"
+echo " hai anandha"
